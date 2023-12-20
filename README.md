@@ -1,7 +1,16 @@
-# Projeto com a biblioteca Pandas
+# Curso de Pandas
+
 Este projeto tem como objetivo explorar os principais recursos da biblioteca Pandas. Para isso, serão realizados diversos processos de manipulação de dados, tais como: exploração de base de dados, criação de agrupamentos, criação de novas variáveis, identificação e remoção de outliers, análise de imóveis residenciais, trabalhando com seleções e frequências, classificação por tipos de imóveis, tratamento de dados faltantes, entre outros.
 
-## Processos realizados no projeto
+| :books: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Curso de Pandas**
+| :label: Tecnologias | python (pandas)
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://vitrinedev.s3.amazonaws.com/curso-pandas.png#vitrinedev)
+
+## Detalhes do projeto
 Exploração de base de dados
 Inicialmente, o projeto se inicia com a exploração de uma base de dados, utilizando os recursos do Pandas para importar e manipular os dados. Será feita a análise dos dados presentes na base, a fim de identificar informações importantes e obter insights.
 
